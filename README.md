@@ -1,5 +1,3 @@
 # energy-efficiency-trends
 
-Arnold
-
-Mauricio
+Team members - Arnold, Mauricio, Hamza, Tetiana, Mridul
