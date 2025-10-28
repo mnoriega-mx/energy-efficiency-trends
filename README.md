@@ -1,4 +1,3 @@
-# energy-efficiency-trends
+# About The Project
 
-Team members - Arnold, Mauricio, Hamza, Tetiana, Mridul, Gael
-HI 
+This is a project for a subject Programming for Data Analytics at Rennes School of Business.
