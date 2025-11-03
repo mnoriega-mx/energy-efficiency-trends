@@ -40,3 +40,9 @@ The following elements make up our methodology:
 5. Predictive Analytics: Build models to forecast energy intensity based on influential variables, including renewable energy share, GDP growth, and technology indicators, to assess potential future sustainable outcomes.
 
 6. Prescriptive Analytics: Develop recommendations for energy, climate, and economic policies that optimize reductions in energy intensity while promoting equitable, sustainable development.
+
+# Tools and Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Visual Studio Code
+- GitHub repository
