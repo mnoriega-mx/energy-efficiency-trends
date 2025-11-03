@@ -9,7 +9,7 @@ The analysis will use predictive modelling to predict future energy intensity le
 # Team Members
 - [Tetiana Fedotova (20250781)](https://github.com/mnoriega-mx)
 - [Mauricio](https://github.com/mnoriega-mx) 
-- [Gael Ramirez Avila (20250525)](https://github.com/gaelramav-debug)
+- [Gael Ramirez Avila](https://github.com/gaelramav-debug) (20250525)
 - [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) 
 - [Hamza Humayun](https://github.com/HamzaAnalytics) 
 
