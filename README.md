@@ -7,11 +7,12 @@ Our methodology involves the visualisation of energy intensity distributions, th
 The analysis will use predictive modelling to predict future energy intensity levels based on identified influential factors, exploratory data analysis (EDA) to find connections between energy efficiency improvements and the adoption of renewable energy, and descriptive analytics to summarise historical trends in energy intensity.  By working together, we hope to use our combined expertise in statistical modelling, data analysis, and programming to produce a thorough report that addresses the crucial research question: How do renewable energy adoption and energy efficiency improvements jointly influence energy intensity, and what role does income inequality play in moderating this relationship across countries during 2000-2020?
 
 # Team Members
-- [Tetiana Fedotova (20250781)](https://github.com/mnoriega-mx)
-- [Mauricio](https://github.com/mnoriega-mx) 
+- [Tetiana Fedotova](https://github.com/mnoriega-mx) (20250781)
+- [Mauricio](https://github.com/mnoriega-mx) ()
 - [Gael Ramirez Avila](https://github.com/gaelramav-debug) (20250525)
-- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) 
-- [Hamza Humayun](https://github.com/HamzaAnalytics) 
+- [Mridul Jain](https://github.com/MridulJain1101) (20250784)
+- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) ()
+- [Hamza Humayun](https://github.com/HamzaAnalytics) ()
 
 # Analysis Approach
 The following elements make up our methodology:
