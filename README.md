@@ -27,3 +27,16 @@ The following elements make up our methodology:
 - Determine the signs of technological adoption:  Examine how energy intensity decrease is influenced by low-carbon electricity percentages, renewable electricity generation capacity per person, and power from renewable sources.
 
 - Examine the effects of income inequality: Find out how the adoption of renewable energy reduces energy intensity in a way that is moderated by income inequality (as measured by GDP per capita distribution and economic development indicators).
+
+# Methodology
+1. Data Cleaning: Preprocess the global energy datasets to handle missing values, outliers, and inconsistencies in energy intensity, renewable energy share, GDP, and income inequality fields.
+
+2. Exploratory Data Analysis (EDA): Visualize trends in energy intensity (MJ/$2011 PPP GDP) across countries from 2000-2020, and examine patterns in renewable energy adoption, economic growth, and technological advancement.
+
+3. Descriptive Analytics: Generate summary statistics and country-wise profiles to provide insights into historical progress and variation in energy intensity and renewables adoption.
+
+4. Diagnostic Analysis: Investigate root causes and threshold effects—specifically, how income inequality moderates or hinders the relationship between renewable energy expansion and improvements in energy efficiency.
+
+5. Predictive Analytics: Build models to forecast energy intensity based on influential variables, including renewable energy share, GDP growth, and technology indicators, to assess potential future sustainable outcomes.
+
+6. Prescriptive Analytics: Develop recommendations for energy, climate, and economic policies that optimize reductions in energy intensity while promoting equitable, sustainable development.
