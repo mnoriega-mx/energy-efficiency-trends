@@ -14,4 +14,16 @@ The analysis will use predictive modelling to predict future energy intensity le
 - AKelani Luemba Arnold
 - Hamza Humayun
 
+# Analysis Approach
+The following elements make up our methodology:
 
+- Monitor trends in energy intensity: To find trends of improvement or decline over time, track the Energy Intensity Level of Primary Energy (measured in MJ/$2017 PPP GDP) across nations from 2000 to 2020.
+
+
+- Correlate with renewable energy: Analyse the connection between gains in renewable energy share (calculated as a percentage of total final energy consumption and equivalent primary energy) and improvements in energy intensity.
+
+- Examine economic performance: Show that efficiency gains do not jeopardise economic growth by comparing trends in energy intensity with GDP growth rates and GDP per capita.
+
+- Determine the signs of technological adoption:  Examine how energy intensity decrease is influenced by low-carbon electricity percentages, renewable electricity generation capacity per person, and power from renewable sources.
+
+- Examine the effects of income inequality: Find out how the adoption of renewable energy reduces energy intensity in a way that is moderated by income inequality (as measured by GDP per capita distribution and economic development indicators).
