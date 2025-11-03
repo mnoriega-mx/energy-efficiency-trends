@@ -47,7 +47,7 @@ The following elements make up our methodology:
 6. Prescriptive Analytics: Develop recommendations for energy, climate, and economic policies that optimize reductions in energy intensity while promoting equitable, sustainable development.
 
 # Conclusions
-Please review our findings in the Insights.md file. This file has all the key findings and section wise summmary which was obtained to meet the key objective.
+Please review our findings in the [Insights.md](https://github.com/mnoriega-mx/energy-efficiency-trends/blob/main/Insights.md) file. This file has all the key findings and section wise summmary which was obtained to meet the key objective.
 
 # Tools and Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
