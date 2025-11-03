@@ -14,6 +14,13 @@ The analysis will use predictive modelling to predict future energy intensity le
 - [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
 - [Hamza Humayun](https://github.com/HamzaAnalytics) (20242073)
 
+# The Dataset
+The datasets have been obtained through [Kaggle](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy) platform and selected to provide relevants insights regarding Global Data on Sustainable Energy (2000-2020).
+
+global-data-on-sustainable-energy: This dataset from 2000 to 2020 shows sustainable energy metrics and other helpful factors for every country.  Examine important topics like energy intensity, financial flows, carbon emissions, renewable energy, electrical access, and economic growth.  Compare countries, monitor the advancement of Sustainable Development Goal 7, and obtain deep understanding of the trends in global energy use over time.
+
+# Folders and organization
+
 # Analysis Approach
 The following elements make up our methodology:
 
@@ -40,6 +47,8 @@ The following elements make up our methodology:
 5. Predictive Analytics: Build models to forecast energy intensity based on influential variables, including renewable energy share, GDP growth, and technology indicators, to assess potential future sustainable outcomes.
 
 6. Prescriptive Analytics: Develop recommendations for energy, climate, and economic policies that optimize reductions in energy intensity while promoting equitable, sustainable development.
+
+# Conclusions
 
 # Tools and Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
