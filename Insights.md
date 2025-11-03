@@ -65,8 +65,8 @@ Renewables become truly transformative only when backed by strong technological 
 | **4.5** | Renewable Share, Electricity Access, Interaction Term | **0.142** | Moderating effect | Electricity access strengthens the impact of renewables on reducing energy intensity. Renewables are more effective in countries with strong infrastructure. |
 
 ## Key Insight
-Each model adds economic, technological, and infrastructural dimensions, increasing explanatory power from **R² = 0.06 to 0.14**.  
-Energy efficiency depends on **context**—renewables become effective only when supported by **technology and equitable electricity access**.
+- Each model adds economic, technological, and infrastructural dimensions, increasing explanatory power from **R² = 0.06 to 0.14**.  
+- Energy efficiency depends on **context**—renewables become effective only when supported by **technology and equitable electricity access**.
 
 ## Conclusion
 
