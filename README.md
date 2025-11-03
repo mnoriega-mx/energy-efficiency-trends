@@ -11,8 +11,8 @@ The analysis will use predictive modelling to predict future energy intensity le
 - [Mauricio](https://github.com/mnoriega-mx) ()
 - [Gael Ramirez Avila](https://github.com/gaelramav-debug) (20250525)
 - [Mridul Jain](https://github.com/MridulJain1101) (20250784)
-- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) ()
-- [Hamza Humayun](https://github.com/HamzaAnalytics) ()
+- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
+- [Hamza Humayun](https://github.com/HamzaAnalytics) (20242073)
 
 # Analysis Approach
 The following elements make up our methodology:
