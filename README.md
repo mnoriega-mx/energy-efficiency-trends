@@ -9,12 +9,12 @@ By working together and combining our skills in statistical modeling, data analy
 
 
 # Team Members
-- [Tetiana Fedotova](https://github.com/mnoriega-mx) (20250781)
-- [Mridul Jain](https://github.com/MridulJain1101) (20250784)
-- [Hamza Humayun](https://github.com/HamzaAnalytics) (20242073)
 - [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
-- [Mauricio Noriega Chapa](https://github.com/mnoriega-mx) (20250312)
-- [Gael Ramirez Avila](https://github.com/gaelramav-debug) (20250525)
+- [Fedotova Tetiana](https://github.com/mnoriega-mx) (20250781)
+- [Humayun Hamza](https://github.com/HamzaAnalytics) (20242073)
+- [Jain Mridul](https://github.com/MridulJain1101) (20250784)
+- [Noriega Chapa Mauricio](https://github.com/mnoriega-mx) (20250312)
+- [Ramirez Avila Gael](https://github.com/gaelramav-debug) (20250525)
 
 
 # The Dataset
