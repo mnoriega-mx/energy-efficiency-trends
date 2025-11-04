@@ -1,3 +1,5 @@
+### Analyzing the Relationship Between Economic Growth and Energy Efficiency in the Transition to Sustainable Energy
+
 # About The Project
 The project is completed for the Rennes School of Business course Programming for Data Analytics. It investigates the crucial role of energy efficiency in supporting sustainable development without compromising. Using extensive global energy databases, we examine the relationship between energy intensity, adoption of renewable energy, and economic performance across several nations. Through the use of descriptive analytics, exploratory data analysis (EDA), and predictive modelling techniques, we want to understand the moderating effect of income inequality in this dynamic and identify important variables that have a major impact on energy intensity trends.
 
