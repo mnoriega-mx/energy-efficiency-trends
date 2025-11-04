@@ -11,10 +11,10 @@ By working together and combining our skills in statistical modeling, data analy
 
 
 # Team Members
-- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
 - [Fedotova Tetiana](https://github.com/mnoriega-mx) (20250781)
 - [Humayun Hamza](https://github.com/HamzaAnalytics) (20242073)
 - [Jain Mridul](https://github.com/MridulJain1101) (20250784)
+- -[Kelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
 - [Noriega Chapa Mauricio](https://github.com/mnoriega-mx) (20250312)
 - [Ramirez Avila Gael](https://github.com/gaelramav-debug) (20250525)
 
