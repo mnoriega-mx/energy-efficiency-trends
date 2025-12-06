@@ -11,13 +11,13 @@ By working together and combining our skills in statistical modeling, data analy
 
 
 # Team Members
-- [AKelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
+
 - [Fedotova Tetiana](https://github.com/mesopotania) (20250781)
 - [Humayun Hamza](https://github.com/HamzaAnalytics) (20242073)
 - [Jain Mridul](https://github.com/MridulJain1101) (20250784)
+- [Kelani Luemba Arnold](https://github.com/Arnold-Kelani) (20242074)
 - [Noriega Chapa Mauricio](https://github.com/mnoriega-mx) (20250312)
 - [Ramirez Avila Gael](https://github.com/gaelramav-debug) (20250525)
-
 
 # The Dataset
 The dataset for this project was extracted from [Kaggle’s Global Data on Sustainable Energy](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy) and selected to provide valuable insights into Global Data on Sustainable Energy.  It covers a wide range of sustainable energy indicators for countries worldwide between 2000 and 2020, including energy intensity, carbon emissions, renewable energy adoption, financial flows, electricity access, and economic growth. This resource enables cross-country comparisons, tracks progress toward Sustainable Development Goal 7, and reveals long-term global trends in energy use.
