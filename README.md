@@ -53,10 +53,6 @@ Our approach consists of several key steps aimed at understanding the drivers an
 
 6. **Prescriptive Analytics:** Develop actionable recommendations for energy, climate, and economic policies that target reductions in energy intensity while promoting equitable and sustainable outcomes.
 
-
-# Conclusions
-Please review our findings in the [Insights.md](https://github.com/mnoriega-mx/energy-efficiency-trends/blob/main/Insights.md) file. This file has all the key findings and section wise summary which was obtained to meet the key objective.
-
 # Tools and Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Xgboost, Sklearn)
 - Jupyter Notebook
